@@ -1,13 +1,5 @@
 ## BMI Calculator
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
 # Instructions
 
 Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
@@ -48,17 +40,3 @@ e.g. When you hit **run**, this is what should happen:
 2. Try to use the exponent operator in your code.
 3. Remember PEMDAS.
 4. Remember to convert your result to a whole number (int). 
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-2-2-test-your-code](https://repl.it/@appbrewery/day-2-2-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-2-2-solution](https://repl.it/@appbrewery/day-2-2-solution)
